@@ -19,6 +19,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.henriqueclum@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](31999072739)
-[![Discord](https://img.shields.io/badge/Discord-20-%23?style=for-the-badge&logo=Discord&logoColor=#7289da)](SKリ#0001)
+[![Discord](https://img.shields.io/badge/Discord-20?style=for-the-badge&logo=Discord&logoColor=#7289da)](SKリ#0001)
 
 <div> <img align="center" alt="subbanner" src="https://raw.githubusercontent.com/Ricmaloy/Ricmaloy/866aca2738b0e00826158fedd4770285f70c8064/github-contribution-grid-snake.svg"></div>
