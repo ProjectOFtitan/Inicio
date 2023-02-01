@@ -15,6 +15,8 @@
    <img alt="Python" src="https://img.shields.io/badge/Python-%20?style=for-the-badge&logo=javascript&logoColor=white">
   </div></br>
 
+<div> <img align="center" alt="centerbanner" src="https://cdn.dribbble.com/users/60266/screenshots/17432450/media/e55027639773904b3490a6f2d80ae813.gif"></div></br>
+
 ### Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXmhDnvgwPfvWnXDNvkCqPVjtkVjGhjfTfsGRnZcnlzFSQSbcFmSSndNgpztWwTGNkjGbX)
