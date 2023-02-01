@@ -17,7 +17,9 @@
 
 ### Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]('https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXmhDnvgwPfvWnXDNvkCqPVjtkVjGhjfTfsGRnZcnlzFSQSbcFmSSndNgpztWwTGNkjGbX',"contato.henriqueclum@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXmhDnvgwPfvWnXDNvkCqPVjtkVjGhjfTfsGRnZcnlzFSQSbcFmSSndNgpztWwTGNkjGbX)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31999072739)
-[![Discord](https://img.shields.io/badge/-Discord-%237289da?style=for-the-badge&logo=Discord&logoColor=#7289da)(https://discord.gg/eexDG6JF)
+[![Discord](https://img.shields.io/badge/-Discord-%237289da?style=for-the-badge&logo=Discord&logoColor=#7289da)](https://discord.gg/eexDG6JF)
+
+
 <div> <img align="center" alt="subbanner" src="https://raw.githubusercontent.com/Ricmaloy/Ricmaloy/866aca2738b0e00826158fedd4770285f70c8064/github-contribution-grid-snake.svg"></div>
